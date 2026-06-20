@@ -1,0 +1,10 @@
+name: AuraAC
+version: '1.0'
+main: mc.aca.auraac.AuraAC
+api-version: '1.16'
+
+commands:
+  auraac:
+    description: Команда управления AuraAC
+    usage: /AuraAntiCheat
+    aliases: [auraac, ac, aac, anticheat]
